@@ -27,6 +27,16 @@ A desktop To-Do List application built using Python, Tkinter, ttkbootstrap and S
 - database.py → Database operations
 - README.md → Project documentation
 
+## Screenshots
+
+### Main Window
+
+![Main Window](images/main_window.png)
+
+### Dark Mode
+
+![Dark Mode](images/dark_mode.png)
+
 ## Author
 
 Nada Mohammad
