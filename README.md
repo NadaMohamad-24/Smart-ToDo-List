@@ -1,24 +1,31 @@
 # Smart To-Do List
 
-Desktop application built using Python and SQLite.
+A desktop To-Do List application built using Python, Tkinter, ttkbootstrap and SQLite.
 
 ## Features
 
 - Add Tasks
 - Edit Tasks
 - Delete Tasks
-- Mark as Completed
+- Mark Tasks as Completed
 - Search Tasks
 - Dark / Light Mode
-- Statistics
+- Task Statistics
 - SQLite Database
 
-## Technologies
+## Technologies Used
 
 - Python
 - Tkinter
 - ttkbootstrap
 - SQLite
+
+## Project Structure
+
+- main.py → Start the application
+- ui.py → User Interface
+- database.py → Database operations
+- README.md → Project documentation
 
 ## Author
 
